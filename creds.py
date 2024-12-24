@@ -17,4 +17,4 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-TOKEN = 'TOKEN'
+TOKEN = 7880978024:AAG3WXY3Ok-HqO7O3tMI_XCtZjrOMD5nlNM
